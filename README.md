@@ -4,6 +4,7 @@
 ## 用于在Windows下将中英文标点相互转换
 使用方法：
 将光标置于标点符号后面，按住CapsLock键(大写锁定)，即可直接修改。
+![everything 设置.gif](https://i.loli.net/2018/04/12/5acf7c6bd641e.gif)
 
 ## 大写锁定哪去了？
 Ctrl 键+CapsLock 即可实现大写锁定。
